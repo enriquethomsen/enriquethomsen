@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, Ich bin Enriqué Thomsen</h1>
 <h3 align="center">Leidenschaftlicher Junior Programmierer aus Deutschland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquethomsen" alt="enriquethomsen" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
