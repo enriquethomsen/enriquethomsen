@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Enriqué!
-Passionate Junior dev from Germany
+Passionate Junior Web-Developer from Germany
 
 
 # 💻 Tech Stack:
